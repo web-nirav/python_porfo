@@ -1,0 +1,3 @@
+Email, Subject, Message
+nirav@gmail.com, subj1, this is the test message
+new@email.com, subj2, messsage 2
